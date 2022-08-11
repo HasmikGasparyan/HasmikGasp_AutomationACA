@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="POM_2"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.745">
+    <properties></properties>
+
+
+
+            <testcase
+                name="CheckMonitorPriceTest"
+                time="9.745"
+                classname="Test.CheckMonitorPriceTest">
+            </testcase>
+</testsuite>
